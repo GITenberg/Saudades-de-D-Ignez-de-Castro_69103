@@ -1,0 +1,26 @@
+_repo: Saudades-de-D-Ignez-de-Castro_69103
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Azevedo, Manuel
+    gutenberg_agent_id: '55103'
+    url: http://www.gutenberg.org/2009/agents/55103
+description: ''
+gutenberg_issued: '2022-10-07'
+identifiers:
+  gutenberg: '69103'
+language: pt
+pgterms:marc905: 20050111004806azevedo
+pgterms:marc906: '1745'
+pgterms:marc907: PT
+production_note: Rita Farinha and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by National Library
+  of Portugal (Biblioteca Nacional de Portugal).)
+publication_note: Portugal :Offic. Joaquinianna da Musica,1745.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Saudades de D. Ignez de Castro
+url: http://www.gutenberg.org/ebooks/69103
